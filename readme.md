@@ -17,6 +17,11 @@ I will introduce new commands soon to this app.
 ## About the APP
 Its practice only, non-comercial.
 
+## Incoming additions
+- Switch Languages
+- Dark Mode
+- More maths utils
+
 ## Tech
 - HTML
 - CSS
@@ -48,6 +53,11 @@ Pronto introducire mas comandos utiles a esta app.
 ## Acerca de la APP
 
 A modo de practica, no es de uso comercial ni nada similar.
+
+## Proximos añadidos
+- Elegir idioma
+- Modo oscuro
+- Mas aplicaciones matematicas
 
 ## Tecnologias Usadas
 
