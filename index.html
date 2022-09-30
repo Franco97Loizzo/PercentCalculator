@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="main.js"></script>
+</head>
+<body>
+    <h1>Caculador de Porcentaje</h1>
+    <h2>Calcula el procentaje</h2>
+    <form class="formu" onsubmit="calcularPorcentaje(event)" id="formPorcentaje">
+        <input class="inputForm" id="porcentaje" type="text" value="">
+        <strong class="strongDefault">% de</strong>
+        <input class="inputForm" id="cantidad" type="text" value="">
+        <input class="botonCalcular" type="submit" id="calcular" value="Calcular">
+        <div class="divContainer" id="divPorcentaje"></div>
+    </form>
+    <h2>¿Venis de STEAM?</h2>
+    <form class="formu" onsubmit="calcularSteam(event)" id="formSteam">
+        <strong class="strongDefault">Valor del juego: </strong>
+        <input class="inputForm" type="text" id="steamcitu" value="">
+        <input class="botonCalcular" type="submit" value="Calcular">
+        <div class="divContainer" id="divSteam"></div>
+    </form>
+</body>
+</html>
